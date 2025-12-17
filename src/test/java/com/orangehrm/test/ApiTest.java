@@ -13,7 +13,7 @@ public class ApiTest {
 
 	@Test
 	public void verifyGetUserAPI() {
-		
+		//adding comment
 		SoftAssert softAssert = new SoftAssert();
 
 		// Step1: Define API Endpoint
